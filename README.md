@@ -3,6 +3,6 @@
 - 👨🏻‍💻Software Developer
 
 <div>
-  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />  
+  <a href="https://www.linkedin.com/in/vinicius-leandro-codogno/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" /></a>
 </div>
 
